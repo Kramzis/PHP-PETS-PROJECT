@@ -13,4 +13,4 @@
 4. Do utworzonej bazy należy zaimportować plik clients.sql zawarty w folderze z projektem.
 5. W wyszukiwarce wpisujemy w pole adresu wyszukiwarki 'localhost/phpProjekt/index.php'.
 
-## Autor: Me
+## Wykonanie: Kramzis
