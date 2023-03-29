@@ -1,0 +1,32 @@
+[
+    {   "name":"Danuś",
+        "age":2,
+        "picture":"assets/animals/img_1.jpg",
+        "description":"Przyjazny i uczuciowy młody dżentelmen szukający nowego domu."
+    },
+    {   "name":"Nela",
+        "age":8,
+        "picture":"assets/animals/img_2.jpg",
+        "description":"Oddana przez rodzinę. Ma swój charakterek, jednak z odpowiednim podejściem zyskasz oddaną przyjaciółkę."
+    },
+    {   "name":"Frodo",
+        "age":4,
+        "picture":"assets/animals/img_3.jpg",
+        "description":"Lubi bawić się z innymi zwierzętami. Wypełni Twój dom miłością i radością."
+    },
+    {   "name":"Erni",
+        "age":5,
+        "picture":"assets/animals/img_4.jpg",
+        "description":"Ten dumny i spokojny pies będzie idealnym towarzyszem do długich spacerów."
+    },
+    {   "name":"Bisia",
+        "age":11,
+        "picture":"assets/animals/img_5.jpg",
+        "description":"Urocza kotka uwielbiająca pieszczoty. Za uwagę odwdzięczy się miłością i towarzystwem."
+    },
+    {   "name":"Garfield",
+        "age":15,
+        "picture":"assets/animals/img_6.jpg",
+        "description":"Uroczy starszy kot. Uwaga, może podkradać lasagne!"
+    }
+]
